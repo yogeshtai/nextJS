@@ -1,0 +1,5 @@
+* Next JS is a framework of react.
+* Next js is open source web framework created by Vercel.
+* In built routing whenever you create new folder and a page.tsx file than the folder's name route will automaticaly created.
+* You will always have to create page.tsx file inside folder.
+* If you want to use any hook or making changes in ui than write 'use client' at the top of the file.
